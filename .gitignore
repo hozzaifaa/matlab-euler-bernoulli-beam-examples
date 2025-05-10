@@ -1,0 +1,12 @@
+# Ignore backup and autosave files
+*.asv
+*.m~
+*.fig~
+*.bak
+
+# Ignore MATLAB crash dumps
+matlab_crash_dump*
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
